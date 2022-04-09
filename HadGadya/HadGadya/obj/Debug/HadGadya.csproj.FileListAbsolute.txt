@@ -1,0 +1,7 @@
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\bin\Debug\HadGadya.exe.config
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\bin\Debug\HadGadya.exe
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\bin\Debug\HadGadya.pdb
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\obj\Debug\HadGadya.csprojAssemblyReference.cache
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\obj\Debug\HadGadya.csproj.CoreCompileInputs.cache
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\obj\Debug\HadGadya.exe
+C:\Chamutal\Projects\HadGadya\HadGadya\HadGadya\obj\Debug\HadGadya.pdb
