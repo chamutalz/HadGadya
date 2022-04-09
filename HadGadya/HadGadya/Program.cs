@@ -13,7 +13,7 @@ namespace HadGadya
 
 		public static int HadGadya(int pathIndex, string text)
 		{
-			if (pathIndex <= 0)
+			if (pathIndex < 0)
 			{
 				
 				return 0;
