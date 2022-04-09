@@ -18,7 +18,7 @@ namespace HadGadya
 				
 				return 0;
 			}
-			string path = "C:/Chamutal/Projects/HadGadya/H" + pathIndex.ToString() + ".txt";
+			string path = "C:/Chamutal/Projects/HadGadya/A" + pathIndex.ToString() + ".txt";
 
 			text = File.ReadAllText(path) + "\n" + text;
 			Console.WriteLine(text);
