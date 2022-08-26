@@ -7,7 +7,7 @@ namespace HadGadya
 	{
 		static void Main(string[] args)
 		{
-			string hadGadya = File.ReadAllText("The folder where the files are located/hadGadya.txt");
+			string hadGadya = File.ReadAllText("C:/Chamutal/Projects/HadGadya/hadGadya.txt");
 			int go = HadGadya(9, hadGadya);
 		}
 
@@ -18,7 +18,7 @@ namespace HadGadya
 				
 				return 0;
 			}
-			string path = "The folder where the files are located/HadGadya/A" + pathIndex.ToString() + ".txt";
+			string path = "C:/Chamutal/Projects/HadGadya/A" + pathIndex.ToString() + ".txt";
 
 			text = File.ReadAllText(path) + "\n" + text;
 			Console.WriteLine(text);
